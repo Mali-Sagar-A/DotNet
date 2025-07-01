@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\ExamDotNet\File_IO\File_IO\bin\Debug\net8.0\File_IO.exe
+C:\Users\user\Desktop\ExamDotNet\File_IO\File_IO\bin\Debug\net8.0\File_IO.deps.json
+C:\Users\user\Desktop\ExamDotNet\File_IO\File_IO\bin\Debug\net8.0\File_IO.runtimeconfig.json
+C:\Users\user\Desktop\ExamDotNet\File_IO\File_IO\bin\Debug\net8.0\File_IO.dll
+C:\Users\user\Desktop\ExamDotNet\File_IO\File_IO\bin\Debug\net8.0\File_IO.pdb
+C:\Users\user\Desktop\ExamDotNet\File_IO\File_IO\obj\Debug\net8.0\File_IO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ExamDotNet\File_IO\File_IO\obj\Debug\net8.0\File_IO.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ExamDotNet\File_IO\File_IO\obj\Debug\net8.0\File_IO.AssemblyInfo.cs
+C:\Users\user\Desktop\ExamDotNet\File_IO\File_IO\obj\Debug\net8.0\File_IO.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ExamDotNet\File_IO\File_IO\obj\Debug\net8.0\File_IO.dll
+C:\Users\user\Desktop\ExamDotNet\File_IO\File_IO\obj\Debug\net8.0\refint\File_IO.dll
+C:\Users\user\Desktop\ExamDotNet\File_IO\File_IO\obj\Debug\net8.0\File_IO.pdb
+C:\Users\user\Desktop\ExamDotNet\File_IO\File_IO\obj\Debug\net8.0\File_IO.genruntimeconfig.cache
+C:\Users\user\Desktop\ExamDotNet\File_IO\File_IO\obj\Debug\net8.0\ref\File_IO.dll

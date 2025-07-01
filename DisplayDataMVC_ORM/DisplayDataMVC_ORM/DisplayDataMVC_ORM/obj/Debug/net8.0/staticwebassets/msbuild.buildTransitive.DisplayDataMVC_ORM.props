@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DisplayDataMVC_ORM.props" />
+</Project>

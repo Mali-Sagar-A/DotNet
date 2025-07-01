@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\ExamDotNet\LinqJoinQuery\LinqJoinQuery\bin\Debug\net8.0\LinqJoinQuery.exe
+C:\Users\user\Desktop\ExamDotNet\LinqJoinQuery\LinqJoinQuery\bin\Debug\net8.0\LinqJoinQuery.deps.json
+C:\Users\user\Desktop\ExamDotNet\LinqJoinQuery\LinqJoinQuery\bin\Debug\net8.0\LinqJoinQuery.runtimeconfig.json
+C:\Users\user\Desktop\ExamDotNet\LinqJoinQuery\LinqJoinQuery\bin\Debug\net8.0\LinqJoinQuery.dll
+C:\Users\user\Desktop\ExamDotNet\LinqJoinQuery\LinqJoinQuery\bin\Debug\net8.0\LinqJoinQuery.pdb
+C:\Users\user\Desktop\ExamDotNet\LinqJoinQuery\LinqJoinQuery\obj\Debug\net8.0\LinqJoinQuery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ExamDotNet\LinqJoinQuery\LinqJoinQuery\obj\Debug\net8.0\LinqJoinQuery.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ExamDotNet\LinqJoinQuery\LinqJoinQuery\obj\Debug\net8.0\LinqJoinQuery.AssemblyInfo.cs
+C:\Users\user\Desktop\ExamDotNet\LinqJoinQuery\LinqJoinQuery\obj\Debug\net8.0\LinqJoinQuery.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ExamDotNet\LinqJoinQuery\LinqJoinQuery\obj\Debug\net8.0\LinqJoinQuery.dll
+C:\Users\user\Desktop\ExamDotNet\LinqJoinQuery\LinqJoinQuery\obj\Debug\net8.0\refint\LinqJoinQuery.dll
+C:\Users\user\Desktop\ExamDotNet\LinqJoinQuery\LinqJoinQuery\obj\Debug\net8.0\LinqJoinQuery.pdb
+C:\Users\user\Desktop\ExamDotNet\LinqJoinQuery\LinqJoinQuery\obj\Debug\net8.0\LinqJoinQuery.genruntimeconfig.cache
+C:\Users\user\Desktop\ExamDotNet\LinqJoinQuery\LinqJoinQuery\obj\Debug\net8.0\ref\LinqJoinQuery.dll

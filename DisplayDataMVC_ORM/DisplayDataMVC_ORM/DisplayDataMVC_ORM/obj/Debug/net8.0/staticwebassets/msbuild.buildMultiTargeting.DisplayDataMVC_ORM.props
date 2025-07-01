@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DisplayDataMVC_ORM.props" />
+</Project>

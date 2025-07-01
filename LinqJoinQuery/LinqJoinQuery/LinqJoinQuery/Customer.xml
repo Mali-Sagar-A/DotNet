@@ -1,0 +1,7 @@
+﻿<Customers>
+	<customer CustomerId="101" CustomerName="Prasad " City="Pune"/>
+	<customer CustomerId="102" CustomerName="Viki" City="Pune"/>
+	<customer CustomerId="103" CustomerName="Sagar" City="Pune"/>
+	<customer CustomerId="104" CustomerName="Tejas" City="Pune"/>
+	<customer CustomerId="105" CustomerName="Ziki" City="Pune"/>
+</Customers>

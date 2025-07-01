@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\ExamDotNet\\LinqJoinQuery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23CEF78C-5966-4EC9-B696-8D3E7EEC8528}|LinqJoinQuery\\LinqJoinQuery.csproj|c:\\users\\user\\desktop\\examdotnet\\linqjoinquery\\linqjoinquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CEF78C-5966-4EC9-B696-8D3E7EEC8528}|LinqJoinQuery\\LinqJoinQuery.csproj|solutionrelative:linqjoinquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CEF78C-5966-4EC9-B696-8D3E7EEC8528}|LinqJoinQuery\\LinqJoinQuery.csproj|c:\\users\\user\\desktop\\examdotnet\\linqjoinquery\\linqjoinquery\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CEF78C-5966-4EC9-B696-8D3E7EEC8528}|LinqJoinQuery\\LinqJoinQuery.csproj|solutionrelative:linqjoinquery\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CEF78C-5966-4EC9-B696-8D3E7EEC8528}|LinqJoinQuery\\LinqJoinQuery.csproj|c:\\users\\user\\desktop\\examdotnet\\linqjoinquery\\linqjoinquery\\customer.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{23CEF78C-5966-4EC9-B696-8D3E7EEC8528}|LinqJoinQuery\\LinqJoinQuery.csproj|solutionrelative:linqjoinquery\\customer.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CEF78C-5966-4EC9-B696-8D3E7EEC8528}|LinqJoinQuery\\LinqJoinQuery.csproj|c:\\users\\user\\desktop\\examdotnet\\linqjoinquery\\linqjoinquery\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CEF78C-5966-4EC9-B696-8D3E7EEC8528}|LinqJoinQuery\\LinqJoinQuery.csproj|solutionrelative:linqjoinquery\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CEF78C-5966-4EC9-B696-8D3E7EEC8528}|LinqJoinQuery\\LinqJoinQuery.csproj|c:\\users\\user\\desktop\\examdotnet\\linqjoinquery\\linqjoinquery\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CEF78C-5966-4EC9-B696-8D3E7EEC8528}|LinqJoinQuery\\LinqJoinQuery.csproj|solutionrelative:linqjoinquery\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ExamDotNet\\LinqJoinQuery\\LinqJoinQuery\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "LinqJoinQuery\\Model\\Customer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ExamDotNet\\LinqJoinQuery\\LinqJoinQuery\\Model\\Customer.cs",
+              "RelativeToolTip": "LinqJoinQuery\\Model\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:36:27.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.xml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ExamDotNet\\LinqJoinQuery\\LinqJoinQuery\\Customer.xml",
+              "RelativeDocumentMoniker": "LinqJoinQuery\\Customer.xml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ExamDotNet\\LinqJoinQuery\\LinqJoinQuery\\Customer.xml",
+              "RelativeToolTip": "LinqJoinQuery\\Customer.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-30T12:50:55.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ExamDotNet\\LinqJoinQuery\\LinqJoinQuery\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "LinqJoinQuery\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ExamDotNet\\LinqJoinQuery\\LinqJoinQuery\\Model\\Product.cs",
+              "RelativeToolTip": "LinqJoinQuery\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:47:18.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ExamDotNet\\LinqJoinQuery\\LinqJoinQuery\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "LinqJoinQuery\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ExamDotNet\\LinqJoinQuery\\LinqJoinQuery\\Model\\Order.cs",
+              "RelativeToolTip": "LinqJoinQuery\\Model\\Order.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAASwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:41:31.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ExamDotNet\\LinqJoinQuery\\LinqJoinQuery\\Program.cs",
+              "RelativeDocumentMoniker": "LinqJoinQuery\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ExamDotNet\\LinqJoinQuery\\LinqJoinQuery\\Program.cs",
+              "RelativeToolTip": "LinqJoinQuery\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:39:15.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
